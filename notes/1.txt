@@ -1,0 +1,69 @@
+layoutis a pre planned strucctue of a web page,
+it is implemented through boxes,
+so web page is collection of boxes,
+it has attributes so it looks presentable(with opening tags) 
+boxes are containers of elements(mostly written after opening tags)
+it contains one or more elements like text,image,link,form,tables.
+the content on the boxes are displayed on web pages.
+parent child boxes are possible
+flex-box techniques is a conventional way for designing layout of a web page having several boxes.
+
+FLEXBOX DESIGNING---------------------->>>>>>>
+parent box(controller) required to control child boxes
+parent(controller) controls the positioning of child boxes.
+positioning of boxes can be done in one direction either main axis(x direction) or cross axis(y direction)
+
+
+EXTRASS----------------->>>>>
+by default the controller accomodates all child boxes in one axis.
+so the size of child boxes may be shrinked by controller to accomodatesall child boxes.
+child boxes can be fixed size boxes or flexible size boxes.
+
+
+
+1. developers use javascript to make amazon g-pay apps interactive.
+2. interactive <RESPONSIVE> means web page responds to actions of users visiting the web page or using web applications.
+3. It ishigh level lang with automatic memory manangement.
+4. js is stored in script tags.
+5. Googe chrome microsoft edge use v8 engine for execution of js code.
+6. mozilla firefox uses spidermonkey for execution of js code.
+7. apple safari uses js for execution of js code.
+8. JS is DYNAMICALLY TYPED LANGUAGE
+ 
+9.////////////////////array and obj///////////////////
+array is usually a collection of values with same data type .JSs array can hold values of different values like records 
+obj is collectionof related values like records
+
+
+
+
+API(APPLICATION KE INTERACTION KE LIYE HAE)
+rest api
+graphical api
+soap api(simple object protocol)(used in banking)
+websocket api()
+
+2.asynchronous operetions(promise can be in 3 state (pending resolve(positive) rejected(error response)))
+(time taking code which runs after synchronous code)
+copies name ka object ban jata hae jisme sare operations perform honge
+the promise object represents the eventual completion or failure of an asynchronous operation 
+and thus object has collection of async operationcompleteion/failure values
+
+so promise is an object which is created when an asyn operation is calledd
+
+fetch browser ka func hota hae 
+
+`try-catch`             
+1.Exception handle karta hai       
+2.Error/exception handling          
+3.Exception occurrence              
+4.JVM exception throw kar sakti hai 
+5.Example: divide by zero           
+
+then if code okay hae then yahi execute hoga
+catch tab execute hoga jab error hoga
+finally 
+
+
+reflow or repaints
+chages made through the dom update the displayed web page right away without reload 

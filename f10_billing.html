@@ -1,0 +1,17 @@
+// Billing System
+
+let itemName = "Laptop";
+let price = 50000;
+let quantity = 2;
+
+let subtotal = price * quantity;
+let tax = subtotal * 0.18;
+let total = subtotal + tax;
+
+console.log("----- BILL -----");
+console.log("Item: " + itemName);
+console.log("Price: ₹" + price);
+console.log("Quantity: " + quantity);
+console.log("Subtotal: ₹" + subtotal);
+console.log("GST (18%): ₹" + tax);
+console.log("Total Amount: ₹" + total);

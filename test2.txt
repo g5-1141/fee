@@ -1,0 +1,5 @@
+Q1: What is DOM ?
+A1: DOM is Document Object Model is a programming interface for HTML documents. 
+It represents an HTML page as a tree of object so javaScript can access,change,add or delete HTML elements and their content.
+
+Q2: 
