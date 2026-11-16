@@ -1,0 +1,6 @@
+JavaScript Events
+JavaScript Events are actions performed by users or browsers on a webpage, 
+such as clicking a button, typing text, moving a mouse or submitting a form. 
+Events make webpages interactive and responsive.
+JavaScript handles these events using event handlers like addEventListener(),
+which executes a function when a particular event occurs.
